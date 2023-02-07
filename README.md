@@ -4,7 +4,7 @@
 
 1. [GitHub Account](https://github.com)
 2. [Visual Studio Code IDE](https://code.visualstudio.com)
-3. [Heroku Account](https://heroku.com)
+3. [Render Account](https://render.com)
 
 ## Create a New Environment
 Creating a new environment in Visual Studeio Code using Anaconda.<br>
